@@ -1,0 +1,8 @@
+{
+  "name": "stunning-rotary-phone",
+  "module": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "typescript": "5.0.4"
+  }
+}
