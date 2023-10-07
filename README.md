@@ -1,2 +1,3 @@
-# stunning-rotary-phone
-Bun renovate reproduction repo
+# Expected Behavior
+
+Renovate should use Bun with https://registry.yarnpkg.com registry.
