@@ -1,3 +1,6 @@
 [install]
 # set default registry as a string
 registry = "https://registry.yarnpkg.com"
+
+[install.scopes]
+"@sindresorhus" = "https://registry.npmjs.org"
